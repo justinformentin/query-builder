@@ -30,7 +30,6 @@
     "react-dom": "*"
   },
   "dependencies": {
-    "@timberio/ui": "^2.0.9",
     "deepmerge": "^2.1.1",
     "emotion": "^9.2.1",
     "emotion-theming": "^9.2.6",

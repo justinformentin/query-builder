@@ -6,8 +6,8 @@ Make building complex queries significantly easier for users, and also help educ
 
 ## Designs
 
-- Sketch: https://cl.ly/1O2b2v0v0c2t
-- PDF: https://cl.ly/3o003G0b231I
+- Sketch: https://cl.ly/be6b662bbf84
+- PDF: https://cl.ly/084ae8259d4c
 - Inspiration: https://cl.ly/0H0m0q2Y1w3l
 
 ## API
@@ -15,7 +15,6 @@ Make building complex queries significantly easier for users, and also help educ
 Props:
   - `schema` a collection of fields that can be queried (e.g. `user`, `system`, `http`, `release`)
   - `onChange` callback that gets fired when the search query changes
-  - `mode` specifies the query syntax, defaults to `lucene` but also accepts `regex` and `literal`
 
 ## Functionality
 
