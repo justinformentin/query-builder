@@ -18,7 +18,6 @@ Props:
 
 ## Functionality
 
-- The query builder should only show when clicked https://cl.ly/1Y1J3u393I0v
 - Updating a query via fields should update the text in the input
 - Focusing on the input should open the relevant query tab
 - Standard keyboard interactions should work (up, down, esc, enter, etc)
