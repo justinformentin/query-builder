@@ -27,13 +27,10 @@ Props:
 
 ## Requirements
 
-- Uses emotion and @timberio/ui for styling components
+- Uses emotion for styling components
 - Uses namespaced theme attributes for styles via context
-- Published as a standalone package
-- Uses timber-eslint for linting
 - Basic tests for functionality
 - Use storybook to demo various states & variations
-
 
 ## Edge Cases
 
